@@ -1,0 +1,4 @@
+user=usuario do banco
+password=senha do banco
+dburl=jdbc:mysql://localhost:3306/nome do banco
+useSSL=false
